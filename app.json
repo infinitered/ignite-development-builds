@@ -16,7 +16,7 @@
   ],
   "android": {
     "icon": "./assets/images/app-icon-android-legacy.png",
-    "package": "red.infinite.ignitedevelomentbuilds",
+    "package": "red.infinite.ignitedevelopmentbuilds",
     "adaptiveIcon": {
       "foregroundImage": "./assets/images/app-icon-android-adaptive-foreground.png",
       "backgroundImage": "./assets/images/app-icon-android-adaptive-background.png"
@@ -27,7 +27,7 @@
   "ios": {
     "icon": "./assets/images/app-icon-ios.png",
     "supportsTablet": true,
-    "bundleIdentifier": "red.infinite.ignitedevelomentbuilds"
+    "bundleIdentifier": "red.infinite.ignitedevelopmentbuilds"
   },
   "web": {
     "favicon": "./assets/images/app-icon-web-favicon.png",

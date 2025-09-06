@@ -1,6 +1,6 @@
 {
   "name": "IgniteDevelopmentBuilds",
-  "slug": "IgniteDevelopmentBuilds",
+  "slug": "ignite-development-builds",
   "scheme": "ignitedevelopmentbuilds",
   "version": "1.0.0",
   "orientation": "portrait",
@@ -61,6 +61,10 @@
   "extra": {
     "ignite": {
       "version": "11.1.2"
+    },
+    "eas": {
+      "projectId": "eabee817-128d-4771-98a4-1f37a5dfa8d2"
     }
-  }
+  },
+  "owner": "infinitered"
 }

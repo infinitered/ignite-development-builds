@@ -66,14 +66,15 @@
           "enforceNavigationBarContrast": false
         }
       }
-    ]
+    ],
+    "expo-build-properties"
   ],
   "experiments": {
     "tsconfigPaths": true
   },
   "extra": {
     "ignite": {
-      "version": "11.1.2"
+      "version": "11.2.1"
     },
     "eas": {
       "projectId": "eabee817-128d-4771-98a4-1f37a5dfa8d2"
